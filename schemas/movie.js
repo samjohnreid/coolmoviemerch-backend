@@ -10,7 +10,7 @@ export default {
         },
         {
             name: 'year',
-            type: 'string',
+            type: 'number',
             title: 'Year'
         },
         {
