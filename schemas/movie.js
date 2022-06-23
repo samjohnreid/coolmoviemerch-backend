@@ -4,7 +4,7 @@ export default {
     title: 'Movies',
     fields: [
         {
-            name: 'title',
+            name: 'name',
             type: 'string',
             title: 'Title'
         },
